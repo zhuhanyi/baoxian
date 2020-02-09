@@ -6,6 +6,5 @@
 
 我们先来看下面这张图，是几十家保险公司的 logo（许多公司更新过 logo，此图仅为示意），眼花缭乱吧，但这只展示了部分保险公司。不完全统计，中国有财产保险公司82家，人身保险公司90家，再保险公司11家，集团和控股保险公司12家，资产管理公司24家，互助保险公司5家，所有 logo 摆出来可能本文都放不下。
 
-!()[https://wx1.sinaimg.cn/mw1024/627dcbbdgy1gbpzpnnziej20s80jc1kx.jpg]
 
-!(保险公司)[https://wx1.sinaimg.cn/mw1024/627dcbbdgy1gbpzpnnziej20s80jc1kx.jpg]
+![](https://photo.weibo.com/1652411325/wbphotos/large/mid/4470019134157127/pid/627dcbbdgy1gbpzpnnziej20s80jc1kx)
